@@ -18,8 +18,13 @@ ShaktiChain is a secure and anonymous feedback platform designed to empower indi
 
 ***APP OVERVIEW:***
 ### Screenshots
-
+### Landing Page:
+![Screenshot](./assets/Screenshot%202025-07-26%20170514.png)
+### Feedback Submission:
+![Screenshot](./assets/Screenshot%202025-07-26%20170542.png)
+### Organiser's Perview:
 ![Screenshot 164](./assets/Screenshot%20(164).png)
+### Student Anonymous Login Perview: 
 ![Screenshot 163](./assets/Screenshot%20(163).png)
 
 
@@ -120,22 +125,11 @@ ShaktiChain is a secure and anonymous feedback platform designed to empower indi
      clarinet console
      ```
 
-## Smart Contract Address
-
-The smart contracts for ShaktiChain are not yet deployed. To deploy on the Stacks testnet or mainnet:
-
-1. Use Clarinet to simulate and test contracts locally.
-2. Deploy using the Stacks CLI or Hiro's deployment tools.
-3. Update this section with the deployed contract address once available.
-
-**Testnet Deployment**: TBD\
-**Mainnet Deployment**: TBD
 
 ## How to Use the Project
 
 1. **Access the Platform**:
 
-   - Open the application in your browser (e.g., `http://localhost:5173` during development).
    - The landing page allows you to choose between "Individual" or "Organization" roles.
 
 2. **As an Individual**:
@@ -160,3 +154,5 @@ The smart contracts for ShaktiChain are not yet deployed. To deploy on the Stack
    - Modify the smart contracts in `contracts/` and test them using Clarinet.
    - Update the frontend in `index.tsx` and styles in `index.css` as needed.
    - Run tests to ensure functionality and contract safety.
+### FUTURE ENHANCEMENTS:
+- Adding up "Donate Us" section to create a medium by aadding up QR code and STX token receiving agents.
