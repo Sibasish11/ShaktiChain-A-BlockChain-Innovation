@@ -5,6 +5,8 @@
 In many educational institutions, students, especially women, often face harassment, discrimination, or abuse of power from authorities such as faculty or administration. Unfortunately, due to fear of retaliation, stigma, or lack of anonymity, such incidents frequently go unreported. The absence of a secure, transparent, and anonymous feedback mechanism leaves victims vulnerable and institutions unaccountable, perpetuating a cycle of silence and injustice.
 
 One of most Burning Case is the Case of **Odisha student dies after self-immolation bid on college campus**:
+### PROBLEM STATEMENT
+![Screenshot](./assets/Screenshot%202025-07-26%20165015.png)
 
 ## Proposed Solution:
 
@@ -15,6 +17,11 @@ ShaktiChain leverages the power of blockchain, built using Clarity and integrate
 ShaktiChain is a secure and anonymous feedback platform designed to empower individuals to share concerns and feedback about campus issues, while allowing organizations to review and address these reports transparently. Built with a focus on privacy and accessibility, it leverages blockchain technology for secure data handling.
 
 ***APP OVERVIEW:***
+### Screenshots
+
+![Screenshot 164](./assets/Screenshot%20(164).png)
+![Screenshot 163](./assets/Screenshot%20(163).png)
+
 
 ## Tech Stack Used
 
